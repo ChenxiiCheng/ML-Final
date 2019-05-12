@@ -1,2 +1,2 @@
-# ML-Final
-This is our ML final project
+# ML-Final-Project
+This is our ML final project.
